@@ -66,9 +66,9 @@ export const socials = [
     href: "https://twitter.com/OperaSwap",
   },
   {
-    label: "Reddit",
-    icon: "RedditIcon",
-    href: "https://www.reddit.com/r/operaswap",
+    label: "Discord",
+    icon: "DiscordIcon",
+    href: "https://discord.gg/fP7Fmfnvmc",
   },
 ];
 
